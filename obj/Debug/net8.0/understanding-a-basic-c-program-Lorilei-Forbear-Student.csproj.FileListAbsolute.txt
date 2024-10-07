@@ -1,0 +1,15 @@
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.AssemblyInfoInputs.cache
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.AssemblyInfo.cs
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.csproj.CoreCompileInputs.cache
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.sourcelink.json
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/bin/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/bin/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.deps.json
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/bin/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.runtimeconfig.json
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/bin/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.dll
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/bin/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.pdb
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.dll
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/refint/understanding-a-basic-c-program-Lorilei-Forbear-Student.dll
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.pdb
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/understanding-a-basic-c-program-Lorilei-Forbear-Student.genruntimeconfig.cache
+/workspaces/understanding-a-basic-c-program-Lorilei-Forbear-Student/obj/Debug/net8.0/ref/understanding-a-basic-c-program-Lorilei-Forbear-Student.dll

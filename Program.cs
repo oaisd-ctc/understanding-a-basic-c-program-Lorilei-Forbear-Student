@@ -1,9 +1,7 @@
 ﻿using System;
 
-
 class Program
 {
-
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -16,6 +14,7 @@ class Program
             string lastname = "Forbear";
             double money = 2.79;
 
-            Console.WriteLine(greeting + "!" + "My name is " + firstname + " " + lastname ". I am " age + "years old. I just spent $" money + "on an energy drink.");
+            Console.WriteLine(greeting + "! " + "My name is " + firstname + " " 
+            + lastname + ". I am " + age + " years old. I just spent $" + money + " on an energy drink.");
         }
 }
